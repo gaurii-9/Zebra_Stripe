@@ -22,7 +22,7 @@ The Ledger (MLOps): MLflow integration for persistent audit trails and faithfuln
 Execution & Evidence
 
 ite_start]**Factual Alignment Audit: Successful hallucination detection confirmed via NLI entailment scoring.:** 
-   (.assets/01_Verification_Gateway.jpg.png)
+   (assets/01_Verification_Gateway.jpg.png)
 
    
   
