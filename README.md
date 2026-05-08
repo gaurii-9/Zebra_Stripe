@@ -21,13 +21,12 @@ The Ledger (MLOps): MLflow integration for persistent audit trails and faithfuln
 
 Execution & Evidence
 
-01. Hallucination Rejection	02. MLOps Governance
-System detecting high-risk hallucinations and rejecting the output.	MLflow dashboard tracking faithfulness scores and parameters.
-03. Backend Audit Trail	04. Server Orchestration
-Real-time logging of audit metrics to the SQLite tracking server.	FastAPI gateway serving local inference with automated loops.
-🚀 Deployment Guide
+ite_start]**Factual Alignment Audit: Successful hallucination detection confirmed via NLI entailment scoring.:** 
+   (.assets/01_Verification_Gateway.jpg.png)
 
-Prerequisites:
+   
+  
+
 
 MacBook with Apple Silicon (M1/M2/M3).
 
